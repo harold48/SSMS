@@ -1,7 +1,7 @@
 # SSMS
-Trial Project
-
-Just copy everything
+Trial Project\
+\
+Just copy everything in master (download in ZIP)
 the database schema and data is at .\db.sql
 
 This is made using PHP\Laravel 8
